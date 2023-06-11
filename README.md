@@ -8,7 +8,7 @@ Please keep in ming that one of the best ways to learn is to read, experiment, a
 
 If interest in my comments, I invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/06/11/rag-thresholding/
 
 Enjoy,
 
